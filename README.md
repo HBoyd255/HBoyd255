@@ -2,8 +2,8 @@
 
 My name is Harry, I'm an engineer _(In training)_ who loves to build things.
 
-I use this platform for a lot of things, both big and small, spanning a wide
-range of contexts. From hobby projects, to academic projects, to documents I've
+I use this platform for many things, both big and small, spanning a wide range
+of contexts. From hobby projects, to academic projects, to documents I've
 written, to labs I've designed for the York Engineering Society, all of it lives
 on this GitHub.
 
@@ -36,10 +36,10 @@ the `--new-window` argument to Firefox.
 
 ## Academic Projects
 
-I also have a number of academic projects that I have worked on throughout my
-time at The University of York. These span from implementing path-finding
-algorithms in C++ to designing the hardware and software for an autonomous maze
-solving robot.
+I also have several academic projects that I have worked on throughout my time
+at The University of York. These span from implementing path-finding algorithms
+in C++ to designing the hardware and software for an autonomous maze solving
+robot.
 
 For various reasons, I have not made these repositories public, but if you are
 interested in seeing them, please feel free to reach out to me.
