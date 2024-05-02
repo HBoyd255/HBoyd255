@@ -8,7 +8,7 @@ written, to labs I've designed for the York Engineering Society, all of it lives
 on this GitHub.
 
 I am aware that with all this, my repositories list may feel a little cluttered,
-so I will do my best to summarize my top projects here.
+so I will do my best to summarise my top projects here.
 
 ## My Top Projects
 
